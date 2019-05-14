@@ -1,4 +1,4 @@
-# Ciência da Computação - [UNIFEG] (https://www.unifeg.edu.br/webacademico/site/index.jsp?acesso)
+# Ciência da Computação - [UNIFEG](https://www.unifeg.edu.br/webacademico/site/index.jsp?acesso)
 Duração do Curso: 8 semestres.
 Período: Noturno.
 Carga Horária: 3220 h/a
