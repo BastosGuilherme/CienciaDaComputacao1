@@ -1,0 +1,9 @@
+#PROGRAMA SIMPLES QUE PEDE A SOMA DE DOIS NUMEROS E EXIBE O RESULTADO
+
+print("DIGITE O NUMERO 1")
+n1 = int(input())
+
+print("DIGITE O NUMERO 2")
+n2 = int(input))
+
+print("RESULTADO ", n1+n2)
